@@ -1,0 +1,103 @@
+body {
+	margin: 0 auto;
+	background-color: #403F37;
+	overflow: hidden;
+}
+
+header {
+	position: relative;
+	bottom: 20px;
+	font-family: 'Ravie';
+	color: white;
+	text-shadow: 2px 2px black;
+	font-size: 30px;
+	padding-left: 375px;
+}
+
+nav {
+	position: relative;
+	left: 375px;
+	bottom: 50px;
+	width: 800px;
+	height: 40px;
+	background-color: #AB2513;
+}
+
+nav h3 {
+	position: relative;
+	padding: 0px 35px 0px 20px;
+	top: 7px;
+	font-family: 'Arial';
+	font-weight: lighter;
+	display: inline;
+}
+
+h3 a {
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+main {
+	position: relative;
+	background-color: white;
+	width: 800px;
+	left: 375px;
+	bottom: 70px;
+	height: 500px;
+}
+
+#onkunde_index {
+	height: 400px;
+}
+
+#onkunde {
+	height: 200px;
+}
+
+#paniek {
+	height: 430px;
+}
+
+main h2 {
+	padding: 30px 18px 0px 20px;
+	font-family: 'Arial';
+}
+
+main input {
+	position: relative;
+	display: table;
+	left: 400px;
+	width: 300px;
+	bottom: 20px;
+}
+
+main p {
+	padding-left: 20px;
+}
+
+form {
+	padding-left: 20px;
+}
+
+#submit {
+	width: 100px;
+	left: 420px;
+}
+
+footer {
+	position: relative;
+	background-color: #2d2c29;
+	width: 800px;
+	left: 375px;
+	bottom: 90px;
+	height: 40px;
+}
+
+footer h3 {
+	text-align: center;
+	padding-top: 10px;
+	font-family: 'Arial';
+	color: white;
+	font-weight: lighter;
+}
